@@ -1,3 +1,4 @@
+# Written by Hüseyin Berk Keskin
 import random
 import time
 
